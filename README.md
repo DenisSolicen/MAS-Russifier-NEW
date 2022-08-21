@@ -15,20 +15,23 @@
 #### Обновления перевода
 * Вам ничего не нужно делать, лаунчер сам будет проверять доступные обновления **перевода**, и сообщать о них.
 
+#### FAQ по переводу
+* Если у вас возникают ошибки после установки перевода, то загляните [сюда](https://github.com/DenisSolicen/MAS-Russifier-NEW/blob/main/FAQ.md)
+
+
+## Поддержка перевода
 #### Помощь переводу «Моника После Истории»
 * Обращайтесь в наш [Discord](https://discord.gg/x2YHXwB), по теме ошибок.
 #### Отблагодарить словами Команду Солицена
 * Вся команда сидит в [Discord](https://discord.gg/x2YHXwB) нашего лампового комьюнити.
 #### Материальная помощь Солицену или участникам Команды.
 * Вся доступная информация на сервере в канале **•поддержка**.
-
-
 #### По поводу лаунчера и установщика
 * Если у вас есть идеи, или можете реализовать порт/ы установищка и лаунчера под Linux, то напишите мне Солицену, в дискорде.
 PS: Установщик создан на WinForms, лаунчер под WPF, просто чтобы вы сразу знали.
 
 
-### For developer team - [«Monika After Story»](https://github.com/Monika-After-Story)
+## For developer team - [«Monika After Story»](https://github.com/Monika-After-Story)
 
 If you are a member of team [«Monika After Story»](https://github.com/Monika-After-Story) and you are somehow hurt because we created our translation on GitHub, you will can discuss it with me [Denis Solicen](https://twitter.com/DenisSolicen), or discuss it on our Discord Server - [Solicen Team](https://discord.gg/ZJ3SQpV).
 
