@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/DenisSolicen/MAS-Russifier/master/github_images/rus_logo_mas.png)
+![alt text](https://raw.githubusercontent.com/DenisSolicen/MAS-Russifier-NEW/main/img/MAS-Banner-SolicenTEAM.png)
 # Обновленный русский перевод «Monika Affter Story» (MAS)
 
 Все права на мод «Моника После Истории» принадлежат их создателям, 'Команда Солицена' не пытается присвоить себе права на мод, она лишь его переводит. Мод построен на 3 Акте и симулирует вечную любовь с Моникой и различные активности связанные с ней.
