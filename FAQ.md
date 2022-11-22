@@ -12,6 +12,22 @@
 ### Игра самостоятельно обновилась и теперь не хочет запускаться, что делать?
 Если у вас возникает подобная ошибка, то она никак не связанна с данным переводом, он не затрагивает оригинальные файлы, а переводит ваши. Просто переустановите игру.
 
+### Игра выдает ошибку при запуске:
+##### Если ваша игра запускается и выдает ошибку:
+```
+While running game code:
+File "game/script-farewells.rpy", line 117, in script
+init 5 python:
+File "game/script-farewells.rpy", line 118, in <module>
+addEvent(Event(persistent.farewell_database,eventlabel="bye_leaving_already",unlocked=True,random=True),
+eventdb=evhand.farewell_database)
+File "game/event-handler.rpy", line 332, in addEvent
+eval(event.conditional)
+NameError: name 'mas_getSessionLength' is not defined
+```
+То, игра комфликтует с вашими сохранениями, для решения данной проблемы придется удалить или переименовать файл сохранений `persistent`.
+Найти его вы можете по пути `%AppData%/RenPy/Monika After Story`.
+
 ### Я пытаюсь запустить игру, меня крашит и я вижу серый экран, что делать?
 Если ваша игра крашится без ошибок описанных выше, то посмотрите, что написала игра в вашем файле `traceback.txt` в корне Doki Doki Literature Club!
 
