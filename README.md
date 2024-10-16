@@ -1,6 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/DenisSolicen/MAS-Russifier-NEW/main/img/MAS-Banner-SolicenTEAM.png)
 # Обновляемый русский перевод «Monika Affter Story» (MAS)
 
+> [!CAUTION]
+> **Не обновляется!** (с 02.02.2024) Смотрите у других переводчиков. <br>
+> *Просьба* не пытаться установить русификатор на версию выше `0.12.1`
+
 Все права на мод «Моника После Истории» принадлежат их создателям, 'Команда Солицена' не пытается присвоить себе права на мод, она лишь его переводит. Мод построен на 3 Акте и симулирует вечную любовь с Моникой и различные активности связанные с ней.
 
 Посмотрите также: [Моника на вашем рабочем столе](https://github.com/SAn4Es-TV/MonikaOnDesktop)
@@ -8,14 +12,14 @@
 [Загрузить лаунчер](https://github.com/SAn4Es-TV/MASlauncher/releases) | Windows Only 
 ### Установка перевода
 #### Через лаунчер
-1. Проверить, что игра скачана с [DDLC.moe](https://DDLC.moe) и на неё установлен мод (MAS) с [monikaafterstory.com](https://MonikaAfterStory.com).
+* Проверить, что игра скачана с [DDLC.moe](https://DDLC.moe) и на неё установлен мод (MAS) с [monikaafterstory.com](https://MonikaAfterStory.com).
 * Загрузить [последнюю версию](https://github.com/SAn4Es-TV/MASlauncher/releases) нашего лаунчера.
 * Запустите лаунчер, нажмите на кнопку **"Установить"** и выберите папку с установленной копией «Doki Doki Literature Club!» (не «DDLC: Plus») где также установлена [Monika After Story](https://www.monikaafterstory.com/), после чего запуститься установщик, ждите.
 * Подождите завершения перевода ваших файлов.
 * Нажмите кнопку "Запустить игру".
 * Играйте с Моникой в игры, и наслаждайтесь её бесконечной любовью!
 #### Напрямую
-1. Проверить, что игра скачана с [DDLC.moe](https://DDLC.moe) и на неё установлен мод (MAS) с [monikaafterstory.com](https://MonikaAfterStory.com).
+* Проверить, что игра скачана с [DDLC.moe](https://DDLC.moe) и на неё установлен мод (MAS) с [monikaafterstory.com](https://MonikaAfterStory.com).
 * Загрузить [последнюю версию](https://github.com/DenisSolicen/MAS-Russifier-NEW/releases) перевода.
 * Распаковать в любую папку.
 * Запустить `Setup.exe`
